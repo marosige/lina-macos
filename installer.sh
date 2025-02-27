@@ -2,7 +2,7 @@
 
 ###############################################################################
 # This script downloads Lina for macOS
-# Dependencies: git, homebrew (macOS)
+# Dependencies: git, homebrew
 ###############################################################################
 
 # Bootstrap Lina
